@@ -1,0 +1,17 @@
+ReactJS:
+     ReactJS is a library of JavaScript.
+     React is a JavaScript library for building user interfaces (UIs) on the web.
+     React is a declarative, component based library that allows developers to build reusable UI components and It follows the Virtual DOM (Document Object Model) approach, which optimizes rendering performance by minimizing DOM updates.
+     React is fast and works well with other tools and libraries.
+
+
+Features of React:
+
+1) JavaScript Library: Open-source library advanced by using Facebook.
+2) User Interface Building: Used for constructing dynamic and interactive user interfaces in applications.
+3) Component-Based: Allows you to create reusable UI components for modular improvement.
+4) Virtual DOM: Optimizes rendering via the usage of a virtual representation of the DOM i.e. virtual DOM.
+5) Declarative Syntax: Describes the support UI outcome, simplifying code and rebuilding.
+6) Efficient State Management: Provides mechanisms for managing issue domain correctly.
+7) Unidirectional Data Flow: Data updates in a single direction, assist traceability and information
+
