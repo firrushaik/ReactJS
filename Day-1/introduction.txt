@@ -15,3 +15,40 @@ Features of React:
 6) Efficient State Management: Provides mechanisms for managing issue domain correctly.
 7) Unidirectional Data Flow: Data updates in a single direction, assist traceability and information
 
+
+* ) Advantages of React:
+
+Following are the main advantages of React −
+
+Performance
+
+Easy to learn
+
+Huge collection of third party components
+
+Large community
+
+SEO Friendliness
+
+Easy kick-starting of the React project
+
+Rich set of developer tools
+
+Handle large application
+
+*) Disadvantages of React:
+
+Even through React library has lot of positives, it has some of the drawbacks as well. Some of the drawbacks are as follows −
+
+Lack of quality documentation
+
+No standard / recommended way to develop application
+
+Fast development pace
+
+Advanced use of JavaScript
+
+JavaScript extension
+
+Just a UI library
+
